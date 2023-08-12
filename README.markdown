@@ -43,7 +43,7 @@ Acceptance Criteria
   
 </ul>
 
-<h2 id="installation"> Installation </h2>
+<h2 id="installation"> Installation   </h2>
 
 <ol>
   <li>Clone the Shiptivity frontend repository </li>
